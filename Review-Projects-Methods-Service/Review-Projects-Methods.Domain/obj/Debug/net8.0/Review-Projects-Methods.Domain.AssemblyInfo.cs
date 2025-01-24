@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Review-Projects-Methods.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9ce0f5a0890cd7bca89f6ae00aee0424fce8c30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07cee6b09d75b4377ff3446d30af80b7f87298ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("Review-Projects-Methods.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Review-Projects-Methods.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
