@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Review_Projects_Methods.Domain.Models
 {
-    internal class Mentor
+    public class Mentor : User
     {
+
     }
 }
