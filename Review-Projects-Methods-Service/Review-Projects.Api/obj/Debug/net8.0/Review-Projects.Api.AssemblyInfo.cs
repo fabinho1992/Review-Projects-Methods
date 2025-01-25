@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Review-Projects-Methods.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Review-Projects.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b344ec636f9e97804593dee2c5d033ffd20859bc")]
-[assembly: System.Reflection.AssemblyProductAttribute("Review-Projects-Methods.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Review-Projects-Methods.Domain")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22aad7145ae6667be3355e26ac59f033d242e194")]
+[assembly: System.Reflection.AssemblyProductAttribute("Review-Projects.Api")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Review-Projects.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
