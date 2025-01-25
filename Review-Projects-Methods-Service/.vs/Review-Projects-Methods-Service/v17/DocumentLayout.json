@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\irepository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\irepository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B2EC47F-B9AA-413A-ACE9-FF3DA6B29B93}|Review-Projects.Infrastructure\\Review-Projects.Infrastructure.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects.infrastructure\\configurations\\mentorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2EC47F-B9AA-413A-ACE9-FF3DA6B29B93}|Review-Projects.Infrastructure\\Review-Projects.Infrastructure.csproj|solutionrelative:review-projects.infrastructure\\configurations\\mentorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\irepository\\imentorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\irepository\\imentorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B2EC47F-B9AA-413A-ACE9-FF3DA6B29B93}|Review-Projects.Infrastructure\\Review-Projects.Infrastructure.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects.infrastructure\\datacontext\\dbreviewprojectscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2EC47F-B9AA-413A-ACE9-FF3DA6B29B93}|Review-Projects.Infrastructure\\Review-Projects.Infrastructure.csproj|solutionrelative:review-projects.infrastructure\\datacontext\\dbreviewprojectscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\irepository\\imentoringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\irepository\\imentoringrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C612AFA4-00D6-4A44-839E-25F94B84BA30}|Review-Projects.Api\\Review-Projects.Api.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C612AFA4-00D6-4A44-839E-25F94B84BA30}|Review-Projects.Api\\Review-Projects.Api.csproj|solutionrelative:review-projects.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C612AFA4-00D6-4A44-839E-25F94B84BA30}|Review-Projects.Api\\Review-Projects.Api.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects.api\\errorsmiddleware\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C612AFA4-00D6-4A44-839E-25F94B84BA30}|Review-Projects.Api\\Review-Projects.Api.csproj|solutionrelative:review-projects.api\\errorsmiddleware\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C612AFA4-00D6-4A44-839E-25F94B84BA30}|Review-Projects.Api\\Review-Projects.Api.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects.api\\errorsmiddleware\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C612AFA4-00D6-4A44-839E-25F94B84BA30}|Review-Projects.Api\\Review-Projects.Api.csproj|solutionrelative:review-projects.api\\errorsmiddleware\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\mentoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\mentoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\irepository\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\irepository\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,114 +39,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IProjectRepository.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\IRepository\\IProjectRepository.cs",
-              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\IRepository\\IProjectRepository.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\IRepository\\IProjectRepository.cs",
-              "RelativeToolTip": "Review-Projects-Methods.Domain\\IRepository\\IProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Title": "MentorConfiguration.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\Configurations\\MentorConfiguration.cs",
+              "RelativeDocumentMoniker": "Review-Projects.Infrastructure\\Configurations\\MentorConfiguration.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\Configurations\\MentorConfiguration.cs",
+              "RelativeToolTip": "Review-Projects.Infrastructure\\Configurations\\MentorConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T04:33:06.405Z",
+              "WhenOpened": "2025-01-25T12:24:21.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IMentorRepository.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\IRepository\\IMentorRepository.cs",
-              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\IRepository\\IMentorRepository.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\IRepository\\IMentorRepository.cs",
-              "RelativeToolTip": "Review-Projects-Methods.Domain\\IRepository\\IMentorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Title": "DbReviewProjectsContext.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\DataContext\\DbReviewProjectsContext.cs",
+              "RelativeDocumentMoniker": "Review-Projects.Infrastructure\\DataContext\\DbReviewProjectsContext.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\DataContext\\DbReviewProjectsContext.cs",
+              "RelativeToolTip": "Review-Projects.Infrastructure\\DataContext\\DbReviewProjectsContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T04:30:04.884Z",
+              "WhenOpened": "2025-01-25T12:17:11.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IMentoringRepository.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\IRepository\\IMentoringRepository.cs",
-              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\IRepository\\IMentoringRepository.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\IRepository\\IMentoringRepository.cs",
-              "RelativeToolTip": "Review-Projects-Methods.Domain\\IRepository\\IMentoringRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Review-Projects.Api\\Program.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Api\\Program.cs",
+              "RelativeToolTip": "Review-Projects.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T04:20:53.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FeedBack.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\FeedBack.cs",
-              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\FeedBack.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\FeedBack.cs",
-              "RelativeToolTip": "Review-Projects-Methods.Domain\\Models\\FeedBack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T04:17:14.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\User.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\User.cs",
-              "RelativeToolTip": "Review-Projects-Methods.Domain\\Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T04:14:13.143Z",
+              "WhenOpened": "2025-01-25T12:15:55.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\Project.cs",
-              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\Project.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\Project.cs",
-              "RelativeToolTip": "Review-Projects-Methods.Domain\\Models\\Project.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Title": "ErrorMiddleware.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Api\\ErrorsMiddleware\\ErrorMiddleware.cs",
+              "RelativeDocumentMoniker": "Review-Projects.Api\\ErrorsMiddleware\\ErrorMiddleware.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Api\\ErrorsMiddleware\\ErrorMiddleware.cs",
+              "RelativeToolTip": "Review-Projects.Api\\ErrorsMiddleware\\ErrorMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T04:01:07.104Z",
+              "WhenOpened": "2025-01-25T12:11:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Api\\ErrorsMiddleware\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Review-Projects.Api\\ErrorsMiddleware\\ErrorResponse.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Api\\ErrorsMiddleware\\ErrorResponse.cs",
+              "RelativeToolTip": "Review-Projects.Api\\ErrorsMiddleware\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T12:10:45.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Mentoring.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\Mentoring.cs",
-              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\Mentoring.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\Mentoring.cs",
-              "RelativeToolTip": "Review-Projects-Methods.Domain\\Models\\Mentoring.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Title": "IFeedBackRepository.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\IRepository\\IFeedBackRepository.cs",
+              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\IRepository\\IFeedBackRepository.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\IRepository\\IFeedBackRepository.cs",
+              "RelativeToolTip": "Review-Projects-Methods.Domain\\IRepository\\IFeedBackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T03:58:15.423Z",
+              "WhenOpened": "2025-01-25T12:06:20.624Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Mentor.cs",
-              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\Mentor.cs",
-              "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\Mentor.cs",
-              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\Mentor.cs",
-              "RelativeToolTip": "Review-Projects-Methods.Domain\\Models\\Mentor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T03:55:21.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
