@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects-Methods.Domain.csproj",
-      "projectName": "Review-Projects-Methods.Domain",
-      "projectPath": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects-Methods.Domain.csproj",
+      "projectUniqueName": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj",
+      "projectName": "Review-Projects.Domain",
+      "projectPath": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj",
       "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
       "outputPath": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\obj\\",
       "projectStyle": "PackageReference",
