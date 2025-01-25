@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj": {}
+    "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Review-Projects-Methods\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj": {}
   },
   "projects": {
-    "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj": {
+    "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Review-Projects-Methods\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Review-Projects-Methods\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj",
         "projectName": "Review-Projects.Domain",
-        "projectPath": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj",
-        "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\obj\\",
+        "projectPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Review-Projects-Methods\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj",
+        "packagesPath": "C:\\Users\\c-gas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\c-gas\\OneDrive\\Documentos\\DEV\\mentoria\\Review-Projects-Methods\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\c-gas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +27,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
