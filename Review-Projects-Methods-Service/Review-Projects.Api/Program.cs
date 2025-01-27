@@ -1,8 +1,11 @@
 using Review_Projects.Api.ErrorsMiddleware;
+using Review_Projects.Extensions;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContextReviewProjects(builder.Configuration);
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

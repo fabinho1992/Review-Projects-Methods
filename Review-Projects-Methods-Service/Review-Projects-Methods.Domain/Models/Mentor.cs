@@ -8,7 +8,7 @@ namespace Review_Projects_Methods.Domain.Models
 {
     public class Mentor : User
     {
-        public Mentor(string name, string email, DateTime createAt, TypeUserEnum typeUser) : base(name, email, createAt, typeUser)
+        public Mentor(string name, string email, TypeUserEnum typeUser) : base(name, email, typeUser)
         {
         }
 

@@ -9,28 +9,30 @@ using System.Threading.Tasks;
 
 namespace Review_Projects.Infrastructure.Configurations
 {
-    public class MentorConfiguration : IEntityTypeConfiguration<Mentor>
+    public class ProjectConfiguration : IEntityTypeConfiguration<Project>
     {
-        public void Configure(EntityTypeBuilder<Mentor> builder)
+        public void Configure(EntityTypeBuilder<Project> builder)
         {
             builder.HasKey(x => x.Id);
+
+            builder.Property(x => x.MentoringId)
+                .IsRequired();
 
             builder.Property(x => x.Name).HasMaxLength(50)
                 .HasColumnType("NVARCHAR")
                 .IsRequired();
 
-            builder.Property(x => x.Email).HasMaxLength(50)
+            builder.Property(x => x.Description).HasMaxLength(250)
+                .HasColumnType("NVARCHAR")
                 .IsRequired();
-            builder.HasIndex(x => x.Email)
-                .IsUnique();
 
-            builder.Property(x => x.TypeUser)
-                .HasConversion<string>()
+            builder.Property(x => x.LinkGit).HasMaxLength(100)
+                .HasColumnType("NVARCHAR")
                 .IsRequired();
 
             builder.HasMany(x => x.FeedBacks)
-                .WithOne(x => x.Mentor)
-                .HasForeignKey(x => x.MentorId);
+                .WithOne(x => x.Project)
+                .HasForeignKey(x => x.ProjectId);
 
 
         }

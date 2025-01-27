@@ -8,12 +8,12 @@ namespace Review_Projects_Methods.Domain.Models
 {
     public class User
     {
-        public User( string name, string email, DateTime createAt, TypeUserEnum typeUser)
+        public User( string name, string email, TypeUserEnum typeUser)
         {
             Id = Guid.NewGuid();    
             Name = name;
             Email = email;
-            CreateAt = createAt;
+            CreateAt = DateTime.Now;
             TypeUser = typeUser;
         }
 

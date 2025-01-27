@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace Review_Projects.Infrastructure.Configurations
 {
-    public class MentorConfiguration : IEntityTypeConfiguration<Mentor>
+    public class MentoringConfiguration : IEntityTypeConfiguration<Mentoring>
     {
-        public void Configure(EntityTypeBuilder<Mentor> builder)
+        public void Configure(EntityTypeBuilder<Mentoring> builder)
         {
             builder.HasKey(x => x.Id);
 
@@ -28,11 +28,9 @@ namespace Review_Projects.Infrastructure.Configurations
                 .HasConversion<string>()
                 .IsRequired();
 
-            builder.HasMany(x => x.FeedBacks)
-                .WithOne(x => x.Mentor)
-                .HasForeignKey(x => x.MentorId);
-
-
+            builder.HasMany(x => x.Projects)
+                .WithOne(x => x.Mentoring)
+                .HasForeignKey(x => x.MentoringId);
         }
     }
 }
