@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B2EC47F-B9AA-413A-ACE9-FF3DA6B29B93}|Review-Projects.Infrastructure\\Review-Projects.Infrastructure.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects.infrastructure\\migrations\\20250127114628_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B2EC47F-B9AA-413A-ACE9-FF3DA6B29B93}|Review-Projects.Infrastructure\\Review-Projects.Infrastructure.csproj|solutionrelative:review-projects.infrastructure\\migrations\\20250127114628_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\mentoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\mentoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C612AFA4-00D6-4A44-839E-25F94B84BA30}|Review-Projects.Api\\Review-Projects.Api.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C612AFA4-00D6-4A44-839E-25F94B84BA30}|Review-Projects.Api\\Review-Projects.Api.csproj|solutionrelative:review-projects.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,14 +46,6 @@
       "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\mentoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\mentoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|c:\\aulasalurabackend\\projetorevisaomentoria\\review-projects-methods-service\\review-projects-methods.domain\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08D5555D-E625-40DA-B02B-6B7A12D66787}|Review-Projects-Methods.Domain\\Review-Projects.Domain.csproj|solutionrelative:review-projects-methods.domain\\models\\mentor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -53,11 +57,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20250127114628_First Migration.cs",
+              "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\Migrations\\20250127114628_First Migration.cs",
+              "RelativeDocumentMoniker": "Review-Projects.Infrastructure\\Migrations\\20250127114628_First Migration.cs",
+              "ToolTip": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\Migrations\\20250127114628_First Migration.cs",
+              "RelativeToolTip": "Review-Projects.Infrastructure\\Migrations\\20250127114628_First Migration.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwBUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T11:46:29.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ExtensionSettings.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Extensions\\ExtensionSettings.cs",
               "RelativeDocumentMoniker": "Review-Projects.Extensions\\ExtensionSettings.cs",
@@ -70,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\adm\\AppData\\Roaming\\Microsoft\\UserSecrets\\a216dab6-fbff-4b2d-bb32-385a41bc7668\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\adm\\AppData\\Roaming\\Microsoft\\UserSecrets\\a216dab6-fbff-4b2d-bb32-385a41bc7668\\secrets.json",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "FeedBackConfiguration.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\Configurations\\FeedBackConfiguration.cs",
               "RelativeDocumentMoniker": "Review-Projects.Infrastructure\\Configurations\\FeedBackConfiguration.cs",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProjectConfiguration.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\Configurations\\ProjectConfiguration.cs",
               "RelativeDocumentMoniker": "Review-Projects.Infrastructure\\Configurations\\ProjectConfiguration.cs",
@@ -109,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "Mentoring.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\Mentoring.cs",
               "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\Mentoring.cs",
@@ -122,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MentoringConfiguration.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\Configurations\\MentoringConfiguration.cs",
               "RelativeDocumentMoniker": "Review-Projects.Infrastructure\\Configurations\\MentoringConfiguration.cs",
@@ -135,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\User.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Mentor.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\Mentor.cs",
               "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\Mentor.cs",
@@ -161,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "MentorConfiguration.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Infrastructure\\Configurations\\MentorConfiguration.cs",
               "RelativeDocumentMoniker": "Review-Projects.Infrastructure\\Configurations\\MentorConfiguration.cs",
@@ -178,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects.Api\\Program.cs",
               "RelativeDocumentMoniker": "Review-Projects.Api\\Program.cs",
@@ -212,7 +229,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "FeedBack.cs",
               "DocumentMoniker": "C:\\AulasAluraBackEnd\\ProjetoRevisaoMentoria\\Review-Projects-Methods-Service\\Review-Projects-Methods.Domain\\Models\\FeedBack.cs",
               "RelativeDocumentMoniker": "Review-Projects-Methods.Domain\\Models\\FeedBack.cs",
